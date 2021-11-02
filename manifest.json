@@ -1,0 +1,22 @@
+{
+  "tokens": [
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/velaswap/assets/master/icons/USDTv3/logo.svg"
+    },
+    {
+      "name": "Velas",
+      "symbol": "WVLX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/velaswap/assets/master/icons/WVLX/logo.svg"
+    },
+    {
+      "name": "Swaps",
+      "symbol": "SWAPS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/velaswap/assets/master/icons/SWAPS/logo.svg"
+    }
+  ]
+}
